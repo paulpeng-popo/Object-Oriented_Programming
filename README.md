@@ -25,4 +25,4 @@ Sample output:
     -rw-r--r-- popo/popo      1177 2020-10-26 14:15 a/tar.h
 
 Reference:
-    [Origin Author]: (https://github.com/calccrypto/tar)
+    + [Origin Author](https://github.com/calccrypto/tar)
