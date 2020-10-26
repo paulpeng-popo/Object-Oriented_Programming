@@ -26,4 +26,4 @@ Sample output:
 
 Reference:
 
-    [Origin]: (https://github.com/calccrypto/tar)
+    [Origin]: https://github.com/calccrypto/tar (Author)
